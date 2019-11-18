@@ -38,6 +38,8 @@
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>mFinity_HHI</string>
+				<key>url</key>
+				<string>https://raw.githubusercontent.com/dage-Ferral/mattuFerral/master/index.html</string>
 			</dict>
 		</dict>
 	</array>
